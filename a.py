@@ -1,1 +1,1 @@
-print("Not sure if this is supposed to be a new file")
+#writing raster to the a file using echo
