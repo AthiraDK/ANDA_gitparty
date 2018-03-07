@@ -1,1 +1,1 @@
-print("Not sure if this is supposed to be a new file")
+#writing faster to the a file using echo
