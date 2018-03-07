@@ -1,1 +1,1 @@
-print("One more file and I will go mad")
+#writing to the c file using echo
