@@ -1,1 +1,2 @@
-#writing faster to the a file using echo
+#writing raster to the a file using echo
+
